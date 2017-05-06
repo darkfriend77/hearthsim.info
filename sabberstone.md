@@ -6,8 +6,6 @@ permalink: /sabberstone/
 
 **Sabberstone** is a Hearthstone simulator, written in [C# Net Core](https://www.microsoft.com/net/core).
 
-<img align="right" src="https://github.com/HearthSim/SabberStone/blob/master/Readme/sabberstone.png">
-
 Sabberstone is activly worked on and I try to be in pair with the current Hearthstone version as much as I can. Sabberstone has always focused in implementing card mechanics the way they are described on [Hearthstone Gamepedia](http://hearthstone.gamepedia.com/Advanced_rulebook). Sabberstone includes a declarative task system to implement card mechanics, which makes it managable to catch up on new expensions or adventures. The main goal of developing Sabberstone was to offer an easy way for AI Dev's and Hearthstone addicts to play around with a simulator. Currently a basic game-tree search is implemented and can be challenged ...
 
 Sabberstone facts ...
